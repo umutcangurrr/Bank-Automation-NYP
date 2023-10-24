@@ -1,0 +1,30 @@
+C:\Users\umutc\Desktop\C# App\UB Bank\bin\Debug\UB Bank.exe.config
+C:\Users\umutc\Desktop\C# App\UB Bank\bin\Debug\UB Bank.exe
+C:\Users\umutc\Desktop\C# App\UB Bank\bin\Debug\UB Bank.pdb
+C:\Users\umutc\Desktop\C# App\UB Bank\obj\Debug\UB Bank.csproj.AssemblyReference.cache
+C:\Users\umutc\Desktop\C# App\UB Bank\obj\Debug\UB Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\umutc\Desktop\C# App\UB Bank\obj\Debug\UB_Bank.girişForm.resources
+C:\Users\umutc\Desktop\C# App\UB Bank\obj\Debug\UB_Bank.MusteriForm.resources
+C:\Users\umutc\Desktop\C# App\UB Bank\obj\Debug\UB_Bank.Properties.Resources.resources
+C:\Users\umutc\Desktop\C# App\UB Bank\obj\Debug\UB Bank.csproj.GenerateResource.cache
+C:\Users\umutc\Desktop\C# App\UB Bank\obj\Debug\UB Bank.csproj.CoreCompileInputs.cache
+C:\Users\umutc\Desktop\C# App\UB Bank\obj\Debug\UB Bank.exe
+C:\Users\umutc\Desktop\C# App\UB Bank\obj\Debug\UB Bank.pdb
+C:\Users\umutc\Desktop\C# App\UB Bank\obj\Debug\UB_Bank.BankacıForm.resources
+C:\Users\umutc\Desktop\C# App\UB Bank\obj\Debug\UB_Bank.Bankacıİslem.resources
+C:\Users\umutc\Desktop\C# App\UB Bank\obj\Debug\UB_Bank.Musteriİslem.resources
+C:\Users\burak\OneDrive\Masaüstü\UB Bank\obj\Debug\UB Bank.csproj.AssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\UB Bank\obj\Debug\UB Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\burak\OneDrive\Masaüstü\UB Bank\obj\Debug\UB_Bank.BankacıForm.resources
+C:\Users\burak\OneDrive\Masaüstü\UB Bank\obj\Debug\UB_Bank.Bankacıİslem.resources
+C:\Users\burak\OneDrive\Masaüstü\UB Bank\obj\Debug\UB_Bank.girişForm.resources
+C:\Users\burak\OneDrive\Masaüstü\UB Bank\obj\Debug\UB_Bank.MusteriForm.resources
+C:\Users\burak\OneDrive\Masaüstü\UB Bank\obj\Debug\UB_Bank.Musteriİslem.resources
+C:\Users\burak\OneDrive\Masaüstü\UB Bank\obj\Debug\UB_Bank.Properties.Resources.resources
+C:\Users\burak\OneDrive\Masaüstü\UB Bank\obj\Debug\UB Bank.csproj.GenerateResource.cache
+C:\Users\burak\OneDrive\Masaüstü\UB Bank\obj\Debug\UB Bank.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\UB Bank\obj\Debug\UB Bank.exe
+C:\Users\burak\OneDrive\Masaüstü\UB Bank\obj\Debug\UB Bank.pdb
+C:\Users\burak\OneDrive\Masaüstü\UB Bank\bin\Debug\UB Bank.exe.config
+C:\Users\burak\OneDrive\Masaüstü\UB Bank\bin\Debug\UB Bank.exe
+C:\Users\burak\OneDrive\Masaüstü\UB Bank\bin\Debug\UB Bank.pdb
